@@ -1,0 +1,1 @@
+<?php /**PATH /home/sites/1a/7/74fc9abc3b/public_html/resources/views/partision/sidesetting.blade.php ENDPATH**/ ?>
